@@ -82,8 +82,8 @@ footer.vertical .copyright {
   font-size: 1rem;
   text-transform: uppercase;
   font-weight: 500;
-  -webkit-transition: all 1s;
-  transition: all 1s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .nav__link:hover {

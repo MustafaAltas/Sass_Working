@@ -14,7 +14,7 @@
     text-transform: uppercase;
     font-weight: 500;
 
-    @include transition(1s);
+    @include transition(0.5s);
     &:hover {
       color: blue;
     }
